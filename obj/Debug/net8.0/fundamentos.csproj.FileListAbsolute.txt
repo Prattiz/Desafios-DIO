@@ -1,0 +1,14 @@
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\bin\Debug\net8.0\fundamentos.exe
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\bin\Debug\net8.0\fundamentos.deps.json
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\bin\Debug\net8.0\fundamentos.runtimeconfig.json
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\bin\Debug\net8.0\fundamentos.dll
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\bin\Debug\net8.0\fundamentos.pdb
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\obj\Debug\net8.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfoInputs.cache
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfo.cs
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\obj\Debug\net8.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\obj\Debug\net8.0\fundamentos.dll
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\obj\Debug\net8.0\refint\fundamentos.dll
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\obj\Debug\net8.0\fundamentos.pdb
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\obj\Debug\net8.0\fundamentos.genruntimeconfig.cache
+C:\Users\pratt\OneDrive\Área de Trabalho\.NET\fundamentos\obj\Debug\net8.0\ref\fundamentos.dll
