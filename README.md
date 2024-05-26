@@ -2,15 +2,15 @@
 
 ## RF's (Requisitos Funcionais) -->
 
-[X] Deve ser possivel adicionar o valor fixo do estacionamento e logo após adicionar o valor por hora
-[X] Deve ser possivel adicionar um veiculo e remover
-[X] Deve ser possivel listar os veiculos estacionados
-[X] Deve ser possivel encerrar o codigo
+- [X] Deve ser possivel adicionar o valor fixo do estacionamento e logo após adicionar o valor por hora
+- [X] Deve ser possivel listar os veiculos estacionados
+- [X] Deve ser possivel adicionar um veiculo e remover
+- [X] Deve ser possivel encerrar o codigo
 
 ## RN's (Regras de Negocios) --> 
 
-[X] Ao remover veiculo, perguntar o tempo que ficou no estacionamento e mostrar a quantia final
-[X] Ao Listar Veiculos após remover um, deve ser possivel listar apenas aqueles que estão estacionados
+- [X] Ao remover veiculo, perguntar o tempo que ficou no estacionamento e mostrar a quantia final
+- [X] Ao Listar Veiculos após remover um, deve ser possivel listar apenas aqueles que estão estacionados
 
 
 
