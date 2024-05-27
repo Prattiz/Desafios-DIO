@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pratt\\OneDrive\\Área de Trabalho\\.NET\\fundamentos\\fundamentos.csproj",
-      "projectName": "fundamentos",
-      "projectPath": "C:\\Users\\pratt\\OneDrive\\Área de Trabalho\\.NET\\fundamentos\\fundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\pratt\\OneDrive\\Área de Trabalho\\.NET\\DIO\\Desafios-DIO\\SistemaDeEstacionamento\\SistemaDeEstacionamento.csproj",
+      "projectName": "SistemaDeEstacionamento",
+      "projectPath": "C:\\Users\\pratt\\OneDrive\\Área de Trabalho\\.NET\\DIO\\Desafios-DIO\\SistemaDeEstacionamento\\SistemaDeEstacionamento.csproj",
       "packagesPath": "C:\\Users\\pratt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pratt\\OneDrive\\Área de Trabalho\\.NET\\fundamentos\\obj\\",
+      "outputPath": "C:\\Users\\pratt\\OneDrive\\Área de Trabalho\\.NET\\DIO\\Desafios-DIO\\SistemaDeEstacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pratt\\AppData\\Roaming\\NuGet\\NuGet.Config"
