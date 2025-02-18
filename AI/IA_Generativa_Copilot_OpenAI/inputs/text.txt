@@ -1,0 +1,13 @@
+1) Why Generative AIs Are Good and What Are Their Pros and Cons for Society
+
+
+image: 1.png
+
+2) ok give me images of traffic on the street
+
+
+image: 2.png
+
+3) Make me a calculator in Python
+
+image: 3.png
